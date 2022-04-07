@@ -5,7 +5,7 @@ Senior Computer Science Student in American University of Armenia.
 <br>
 My main interest and focus is Frontend Web Development using Javascript.
 <br>
-Currently working on my Capstone Project (aka Graduation Porject) in which I'm building fullstack website that I'm planning to make it go live it by the end of 2022.
+Currently working on my Capstone Project (aka Graduation Porject) in which I'm building fullstack website that I'm planning to make it go live, by the end of 2022.
 
 ## Languages:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
